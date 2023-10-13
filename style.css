@@ -59,3 +59,14 @@ button {
 .spacer {
     height: 30px; 
 }
+
+/* Footer formázása */
+footer {
+    
+    color: black;
+    text-align: center; 
+    padding: 20px; 
+    font-size: 15px; 
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
